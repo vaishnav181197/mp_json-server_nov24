@@ -1,0 +1,139 @@
+{
+  "allVideos": [
+    {
+      "caption": "oh Maahi",
+      "url": "https://www.youtube.com/watch?v=Zlqf9cuaOBw",
+      "image": "https://i.ytimg.com/vi/Zlqf9cuaOBw/maxresdefault.jpg",
+      "id": 4
+    },
+    {
+      "caption": "premalu song",
+      "url": "https://www.youtube.com/watch?v=9-rkz2JuAxc",
+      "image": "https://m.timesofindia.com/photo/107447021/size-139128/107447021.jpg",
+      "id": 5
+    },
+    {
+      "caption": "premalu",
+      "url": "https://www.youtube.com/embed/9-rkz2JuAxc?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "image": "https://m.timesofindia.com/photo/107447021/size-139128/107447021.jpg",
+      "id": 6
+    },
+    {
+      "caption": "Vaaliban",
+      "url": "https://www.youtube.com/embed/NKX7RGZXBWc?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "image": "https://i.ytimg.com/vi/NKX7RGZXBWc/maxresdefault.jpg",
+      "id": 7
+    },
+    {
+      "caption": "Anweshippin",
+      "url": "https://www.youtube.com/embed/FQZ5_AtbO2o?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "image": "https://i.ytimg.com/vi/FQZ5_AtbO2o/maxresdefault.jpg",
+      "id": 8
+    },
+    {
+      "caption": "Bramayugam teaser",
+      "url": "https://www.youtube.com/embed/H66pS8KSE24?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "image": "https://i.ytimg.com/vi/H66pS8KSE24/maxresdefault.jpg",
+      "id": 9
+    },
+    {
+      "caption": "Angular tutorial",
+      "url": "https://www.youtube.com/embed/3qBXWUpoPHo?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "image": "https://i.ytimg.com/vi/3qBXWUpoPHo/maxresdefault.jpg",
+      "id": 10
+    },
+    {
+      "caption": "react tutorial",
+      "url": "https://www.youtube.com/embed/Dorf8i6lCuk?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "image": "https://i.ytimg.com/vi/Dorf8i6lCuk/maxresdefault.jpg",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "name": "Trailers",
+      "videos": [
+        {
+          "caption": "Bramayugam teaser",
+          "url": "https://www.youtube.com/embed/H66pS8KSE24?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+          "image": "https://i.ytimg.com/vi/H66pS8KSE24/maxresdefault.jpg",
+          "id": 9
+        },
+        {
+          "caption": "Anweshippin",
+          "url": "https://www.youtube.com/embed/FQZ5_AtbO2o?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+          "image": "https://i.ytimg.com/vi/FQZ5_AtbO2o/maxresdefault.jpg",
+          "id": 8
+        },
+        {
+          "caption": "Vaaliban",
+          "url": "https://www.youtube.com/embed/NKX7RGZXBWc?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+          "image": "https://i.ytimg.com/vi/NKX7RGZXBWc/maxresdefault.jpg",
+          "id": 7
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Movie Songs",
+      "videos": [
+        {
+          "caption": "premalu song",
+          "url": "https://www.youtube.com/watch?v=9-rkz2JuAxc",
+          "image": "https://m.timesofindia.com/photo/107447021/size-139128/107447021.jpg",
+          "id": 5
+        },
+        {
+          "caption": "premalu",
+          "url": "https://www.youtube.com/embed/9-rkz2JuAxc?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+          "image": "https://m.timesofindia.com/photo/107447021/size-139128/107447021.jpg",
+          "id": 6
+        },
+        {
+          "caption": "oh Maahi",
+          "url": "https://www.youtube.com/watch?v=Zlqf9cuaOBw",
+          "image": "https://i.ytimg.com/vi/Zlqf9cuaOBw/maxresdefault.jpg",
+          "id": 4
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Tutorials",
+      "videos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "react tutorial",
+      "url": "https://www.youtube.com/embed/Dorf8i6lCuk?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "datetime": "2024-03-11T10:30:55.529Z",
+      "id": 1
+    },
+    {
+      "caption": "Bramayugam teaser",
+      "url": "https://www.youtube.com/embed/H66pS8KSE24?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "datetime": "2024-03-11T10:31:04.038Z",
+      "id": 2
+    },
+    {
+      "caption": "Anweshippin",
+      "url": "https://www.youtube.com/embed/FQZ5_AtbO2o?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "datetime": "2024-03-11T10:31:18.974Z",
+      "id": 3
+    },
+    {
+      "caption": "premalu song",
+      "url": "https://www.youtube.com/watch?v=9-rkz2JuAxc",
+      "datetime": "2024-03-11T11:05:42.368Z",
+      "id": 4
+    },
+    {
+      "caption": "Angular tutorial",
+      "url": "https://www.youtube.com/embed/3qBXWUpoPHo?si=Rvt5xEVzXDu7N4yd&autoplay=1",
+      "datetime": "2024-03-11T11:05:52.236Z",
+      "id": 5
+    }
+  ]
+}
